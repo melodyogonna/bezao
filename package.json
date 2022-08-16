@@ -1,0 +1,28 @@
+{
+  "name": "bezao",
+  "version": "1.0.0",
+  "description": "Bezao application tests",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melodyogonna/bezao.git"
+  },
+  "author": "Melody Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melodyogonna/bezao/issues"
+  },
+  "homepage": "https://github.com/melodyogonna/bezao#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^28.1.7",
+    "jest": "^28.1.3",
+    "ts-jest": "^28.0.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
+}
